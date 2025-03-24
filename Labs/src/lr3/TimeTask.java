@@ -2,16 +2,11 @@ package lr3;
 
 import java.util.*;
 
-/* 
- *  Вариант № 19.
- *  ArrayDeque, SortedSet, SortedMap
- * 	Количество элементов в коллекции: 
-	< 19 000 000 >
-	Количество элементов для вычисления скорости получения по индексу:
- 	< 19 000 000 000 >
- * */
 public class TimeTask {
+	// Вариант № 19
 	private static final int COLLECTION_SIZE = 19_000_000;
+	// 19_000_000_000L требует значительного времени выполнения программы.
+	// Для выполнения ЛР было установлено значение 500
 	private static final long INDEX_ACCESS_ELEMENT_COUNT = 19_000_000_000L;
 
 	public static void main(String[] args) {
