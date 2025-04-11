@@ -7,6 +7,7 @@ public class Lr4_Example14 {
 
     public static void main(String[] args) {
         try {
+        	// Увеличим l для корректной работы без ошибок
             int l = args.length + 1;
             System.out.println("размер массива= " + l);
             m(l);
