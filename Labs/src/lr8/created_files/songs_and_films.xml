@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <movie_library>
+        <movie>
+            <title>1+1</title>
+            <genre>Комедийная драма</genre>
+            <director>Оливье Накаш</director>
+            <year>2011</year>
+        </movie>
+        <movie>
+            <title>Побег из Шоушенка</title>
+            <genre>Драма</genre>
+            <director>Фрэнк Дарабонт</director>
+            <year>1994</year>
+        </movie>
+    </movie_library>
+    <audio_library>
+        <song>
+            <title>Я не сошёл с ума</title>
+            <genre>Рок-музыка</genre>
+            <author>Ария</author>
+            <album>Химера</album>
+            <year>2001</year>
+        </song>
+        <song>
+            <title>Зумер</title>
+            <genre>Металл</genre>
+            <author>Б.А.У</author>
+            <album>Министерство Несчастья</album>
+            <year>2024</year>
+        </song>
+    </audio_library>
+</library>
